@@ -1,0 +1,18 @@
+{
+  "name": "alunos",
+  "version": "1.0.0",
+  "description": "Exercício DW3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "node"
+  ],
+  "author": "Vitor",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.19.2"
+  }
+}
